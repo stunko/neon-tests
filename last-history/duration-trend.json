@@ -1,3 +1,8 @@
 [ {
+  "buildOrder" : 82,
+  "reportUrl" : "https://stunko.github.io/neon-tests/82/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "data" : { }
 } ]
