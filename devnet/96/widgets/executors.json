@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://stunko.github.io/neon-tests/devnet",
+  "buildOrder" : 96,
+  "buildName" : "GitHub Actions Run #2318415801",
+  "buildUrl" : "https://github.com/stunko/neon-tests/actions/runs/2318415801",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://stunko.github.io/neon-tests/devnet/96/"
+} ]

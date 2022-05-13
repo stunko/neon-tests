@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 96,
+  "reportUrl" : "https://stunko.github.io/neon-tests/devnet/96/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+} ]

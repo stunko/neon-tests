@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "Neon-proxy/v0.7.21-6b5e1955d9552cd0766b67517e5a34e26e00303d" ],
+  "name" : "Proxy.Version"
+}, {
+  "values" : [ "Neon/v0.7.6-a4d3f268946833baf9c4c315364a38c9589251b0" ],
+  "name" : "EVM.Version"
+}, {
+  "values" : [ "Neon-cli/v0.7.6-a4d3f268946833baf9c4c315364a38c9589251b0" ],
+  "name" : "CLI.Version"
+}, {
+  "values" : [ "https://stunko.github.io/neon-tests/devnet" ],
+  "name" : "URL"
+} ]
